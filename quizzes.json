@@ -1,0 +1,70 @@
+{
+  "quizzes": [
+    {
+      "id": "gk1",
+      "title": "World Capitals",
+      "description": "Test your knowledge of world capitals",
+      "questions": [
+        {
+          "question": "What is the capital of France?",
+          "options": ["London", "Paris", "Berlin", "Madrid"],
+          "answer": 1
+        },
+        {
+          "question": "What is the capital of Japan?",
+          "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+          "answer": 2
+        },
+        {
+          "question": "What is the capital of Australia?",
+          "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "gk2",
+      "title": "Science Basics",
+      "description": "Basic science questions everyone should know",
+      "questions": [
+        {
+          "question": "What is the chemical symbol for water?",
+          "options": ["H2O", "CO2", "NaCl", "O2"],
+          "answer": 0
+        },
+        {
+          "question": "Which planet is closest to the sun?",
+          "options": ["Venus", "Mars", "Mercury", "Earth"],
+          "answer": 2
+        },
+        {
+          "question": "What force pulls objects toward Earth?",
+          "options": ["Magnetism", "Gravity", "Friction", "Electricity"],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "gk3",
+      "title": "Famous Landmarks",
+      "description": "How well do you know world landmarks?",
+      "questions": [
+        {
+          "question": "In which country would you find the Great Pyramid of Giza?",
+          "options": ["Mexico", "Egypt", "India", "China"],
+          "answer": 1
+        },
+        {
+          "question": "Where is the Statue of Liberty located?",
+          "options": ["Los Angeles", "Washington D.C.", "New York", "Boston"],
+          "answer": 2
+        },
+        {
+          "question": "In which city would you find the Eiffel Tower?",
+          "options": ["Rome", "Berlin", "Paris", "Barcelona"],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}
