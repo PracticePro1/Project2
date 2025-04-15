@@ -1,68 +1,113 @@
 {
   "quizzes": [
     {
-      "id": "gk1",
-      "title": "World Capitals",
-      "description": "Test your knowledge of world capitals",
+      "id": "math2",
+      "title": "Grade 2 Math Quiz",
+      "description": "Fun math questions for second graders!",
       "questions": [
         {
-          "question": "What is the capital of France?",
-          "options": ["London", "Paris", "Berlin", "Madrid"],
-          "answer": 1
+          "question": "What is 5 + 7?",
+          "options": ["11", "12", "13", "14"],
+          "answer": 1,
+          "explanation": "Great job! 5 + 7 equals 12."
         },
         {
-          "question": "What is the capital of Japan?",
-          "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
-          "answer": 2
+          "question": "How many sides does a triangle have?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 1,
+          "explanation": "That's right! A triangle has 3 sides."
         },
         {
-          "question": "What is the capital of Australia?",
-          "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
-          "answer": 2
+          "question": "If you have 4 apples and get 3 more, how many apples do you have?",
+          "options": ["6", "7", "8", "9"],
+          "answer": 1,
+          "explanation": "Yes! 4 apples + 3 apples = 7 apples."
+        },
+        {
+          "question": "Which number comes after 99?",
+          "options": ["98", "100", "90", "109"],
+          "answer": 1,
+          "explanation": "Correct! After 99 comes 100."
+        },
+        {
+          "question": "How many pennies make a nickel?",
+          "options": ["1", "5", "10", "25"],
+          "answer": 1,
+          "explanation": "Exactly! 5 pennies = 1 nickel."
         }
       ]
     },
     {
-      "id": "gk2",
-      "title": "Science Basics",
-      "description": "Basic science questions everyone should know",
+      "id": "science2",
+      "title": "Grade 2 Science Quiz",
+      "description": "Discover cool science facts!",
       "questions": [
         {
-          "question": "What is the chemical symbol for water?",
-          "options": ["H2O", "CO2", "NaCl", "O2"],
-          "answer": 0
+          "question": "What do plants need to grow?",
+          "options": ["Water", "Sunlight", "Soil", "All of these"],
+          "answer": 3,
+          "explanation": "Perfect! Plants need water, sunlight AND soil to grow."
         },
         {
-          "question": "Which planet is closest to the sun?",
-          "options": ["Venus", "Mars", "Mercury", "Earth"],
-          "answer": 2
+          "question": "Which animal says 'moo'?",
+          "options": ["Pig", "Cow", "Duck", "Sheep"],
+          "answer": 1,
+          "explanation": "Moo-velous! Cows say 'moo'."
         },
         {
-          "question": "What force pulls objects toward Earth?",
-          "options": ["Magnetism", "Gravity", "Friction", "Electricity"],
-          "answer": 1
+          "question": "What season comes after winter?",
+          "options": ["Fall", "Summer", "Spring", "Winter again"],
+          "answer": 2,
+          "explanation": "Yes! Spring comes after winter."
+        },
+        {
+          "question": "What do we call a baby dog?",
+          "options": ["Cub", "Puppy", "Kitten", "Chick"],
+          "answer": 1,
+          "explanation": "Paws-itively right! A baby dog is a puppy."
+        },
+        {
+          "question": "Which of these is NOT a planet?",
+          "options": ["Mars", "Jupiter", "Sun", "Earth"],
+          "answer": 2,
+          "explanation": "Bright thinking! The Sun is a star, not a planet."
         }
       ]
     },
     {
-      "id": "gk3",
-      "title": "Famous Landmarks",
-      "description": "How well do you know world landmarks?",
+      "id": "english2",
+      "title": "Grade 2 English Quiz",
+      "description": "Let's practice reading and writing!",
       "questions": [
         {
-          "question": "In which country would you find the Great Pyramid of Giza?",
-          "options": ["Mexico", "Egypt", "India", "China"],
-          "answer": 1
+          "question": "Which word rhymes with 'cat'?",
+          "options": ["Dog", "Hat", "Run", "Jump"],
+          "answer": 1,
+          "explanation": "Rhyme time! 'Cat' rhymes with 'hat'."
         },
         {
-          "question": "Where is the Statue of Liberty located?",
-          "options": ["Los Angeles", "Washington D.C.", "New York", "Boston"],
-          "answer": 2
+          "question": "What is the plural of 'box'?",
+          "options": ["Boxs", "Boxes", "Boxen", "Box"],
+          "answer": 1,
+          "explanation": "Excellent! The plural of box is boxes."
         },
         {
-          "question": "In which city would you find the Eiffel Tower?",
-          "options": ["Rome", "Berlin", "Paris", "Barcelona"],
-          "answer": 2
+          "question": "Which word is a verb?",
+          "options": ["Happy", "Run", "Blue", "House"],
+          "answer": 1,
+          "explanation": "Action-packed answer! 'Run' is a verb."
+        },
+        {
+          "question": "What punctuation ends a question?",
+          "options": [".", "!", "?", ","],
+          "answer": 2,
+          "explanation": "Question perfect! ? ends questions."
+        },
+        {
+          "question": "Which is a complete sentence?",
+          "options": ["The big dog", "Runs fast", "The dog barks", "Under the tree"],
+          "answer": 2,
+          "explanation": "Sentence superstar! 'The dog barks' is complete."
         }
       ]
     }
